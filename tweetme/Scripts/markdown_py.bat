@@ -1,0 +1,1 @@
+@"e:\dev\tweetme\scripts\python.exe" "e:\dev\tweetme\Scripts\markdown_py" %*
